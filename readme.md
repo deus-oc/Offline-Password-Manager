@@ -126,3 +126,6 @@ The User has the ability to delete selected credentials from the database. The u
 first needs to fetch the credentials using the Search method, and once the
 credentials along with the site name have been fetched, the User can delete the
 selected record by clicking on the delete button.
+Home | Add/Del  | Get
+:---: | :---: | :---:
+![pic1](https://user-images.githubusercontent.com/43948081/141369121-2c55fa58-fb38-4946-a233-7d2054bb557a.png)|![pic2](https://user-images.githubusercontent.com/43948081/141369125-86b7e8f3-8bdf-44b9-8967-8c0e47890f33.png)|![pic3](https://user-images.githubusercontent.com/43948081/141369128-4387b1de-3d27-4901-8368-68047b3887f2.png)
